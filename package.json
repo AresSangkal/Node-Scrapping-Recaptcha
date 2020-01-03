@@ -1,0 +1,21 @@
+{
+  "name": "nakedcph-entries",
+  "version": "1.0.0",
+  "description": "Automatically enters you into the OW Presto raffle. This script was made for Carlton Notify.",
+  "main": "index.js",
+  "dependencies": {
+    "captcha-solver": "0.0.6",
+    "cheerio": "^1.0.0-rc.2",
+    "faker": "^4.1.0",
+    "fs": "^0.0.1-security",
+    "json2csv": "^4.5.1",
+    "querystring": "^0.2.0",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Abrar",
+  "license": "ISC"
+}
